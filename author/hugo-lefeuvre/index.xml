@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Lefeuvre | CPSC 436A 2024</title>
+    <link>https://tfjmp.org/UBC-CPSC-436A/author/hugo-lefeuvre/</link>
+      <atom:link href="https://tfjmp.org/UBC-CPSC-436A/author/hugo-lefeuvre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Lefeuvre</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://tfjmp.org/UBC-CPSC-436A/author/hugo-lefeuvre/avatar_hu7849b20ce9ad2599a2189d7278ab15e2_275442_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hugo Lefeuvre</title>
+      <link>https://tfjmp.org/UBC-CPSC-436A/author/hugo-lefeuvre/</link>
+    </image>
+    
+  </channel>
+</rss>
